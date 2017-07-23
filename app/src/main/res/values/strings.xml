@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProcessObserver</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="start_button">START</string>
+    <string name="stop_button">STOP</string>
+    <string name="remove_button">REMOVE LOG</string>
+
+    <string name="running_text">Running</string>
+    <string name="stopped_text">Stopped</string>
+</resources>
